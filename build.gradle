@@ -17,7 +17,7 @@ repositories {
 
 task print() {
 	doLast{
-		println "hhh from develop 11"
+		println "hhh from develop 12"
 	}
 }
 
